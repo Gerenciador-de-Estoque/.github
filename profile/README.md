@@ -11,8 +11,8 @@ Bem-vindo ao **Gerenciador de Estoque** 🗃️, um projeto desenvolvido por uma
 |--|--|--|--|--|
 
 ## 🌐 Ferramentas
-| <img title="VSCode" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"> | <img title="Trello" alt="Trello" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg"> | <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> | <img title="Discord" alt="Discord" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg"> |
-|--|--|--|--|
+| <img title="VSCode" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> | <img title="Trello" alt="Trello" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg"> | <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> |
+|--|--|--|
 
 
 ## 📫 Contato
