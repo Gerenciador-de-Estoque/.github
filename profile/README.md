@@ -3,7 +3,9 @@
 Bem-vindo ao Gerenciador de Estoque 🗃️, um projeto desenvolvido por uma equipe de estudantes do curso de Ciência da Computação 🎓. Somos um grupo de apaixonados por tecnologia 💻 e estamos sempre explorando novas ferramentas ⚙️ para aprimorar nossas habilidades em desenvolvimento de software 💡 e resolver desafios reais 💪. Este projeto representa mais uma etapa importante na nossa jornada acadêmica 📚 e profissional 🚀.
 
 ## 📊 Nossas Estatísticas
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gerenciador-de-Estoque&show_icons=true&theme=react&count_private=true)
+
+![Organização GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gerenciador-de-Estoque&repo=nome-do-repositorio&show_icons=true&theme=react&count_private=true)
+
 ## 🌐 Tecnologias
 | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> | <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/FFFFFF/flask.png"> | <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> |
 |--|--|--|--|--|
