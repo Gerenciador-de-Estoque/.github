@@ -10,6 +10,10 @@ Bem-vindo ao **Gerenciador de Estoque** 🗃️, um projeto desenvolvido por uma
 | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> | <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/FFFFFF/flask.png"> | <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> |
 |--|--|--|--|--|
 
+## 🌐 Ferramentas
+| <img title="VSCode" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"> | <img title="Trello" alt="Trello" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Trello-logo-2014.svg"> | <img title="Figma" alt="Figma" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Figma-logo.svg"> | <img title="Discord" alt="Discord" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg"> |
+|--|--|--|--|
+
 ## 📫 Contato
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seuperfil)
 
