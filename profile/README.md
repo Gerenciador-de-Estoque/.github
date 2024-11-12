@@ -11,8 +11,9 @@ Bem-vindo ao **Gerenciador de Estoque** 🗃️, um projeto desenvolvido por uma
 |--|--|--|--|--|
 
 ## 🌐 Ferramentas
-| <img title="VSCode" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"> | <img title="Trello" alt="Trello" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Trello-logo-2014.svg"> | <img title="Figma" alt="Figma" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Figma-logo.svg"> | <img title="Discord" alt="Discord" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg"> |
+| <img title="VSCode" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg"> | <img title="Trello" alt="Trello" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/trello.svg"> | <img title="Figma" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/figma.svg"> | <img title="Discord" alt="Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg"> |
 |--|--|--|--|
+
 
 ## 📫 Contato
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seuperfil)
