@@ -30,7 +30,7 @@ Bem-vindo ao **Gerenciador de Estoque** 🗃️, um projeto desenvolvido por uma
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend**: Python, Flask, SQLAlchemy
-- **Frontend**: HTML5, CSS3
+- **Frontend**: HTML5, CSS3, JavaScript
 - **Banco de Dados**: MySQL
 
 ## 🖥️ Como Executar o Projeto
