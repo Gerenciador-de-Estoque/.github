@@ -4,7 +4,7 @@ Bem-vindo ao **Gerenciador de Estoque** 🗃️, um projeto desenvolvido por uma
 
 ## 📊 Nossas Estatísticas
 
-![Organização GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgoesti&repo=Estoque&show_icons=true&theme=react&count_private=true)
+![Organização GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgoesti&repo=Gerenciador-de-Estoque&show_icons=true&theme=react&count_private=true)
 
 ## 🌐 Tecnologias
 | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> | <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/FFFFFF/flask.png"> | <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> |
